@@ -37,8 +37,52 @@
     height: 64.5rem;
     background-color: #C6754D;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10rem;
+    padding: 0 10rem;
+    color: #FCF9F7;
+    font-weight: 400;
 
 }
+.image_oblique{
+    height: 59.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.imag_oblique_text{
+    display: flex;
+    flex-direction: column;
+}
+.image_oblique_image{
+    position: relative;
+    width: 37.3rem;
+    height: 54.rem;
+}
+.image_oblique_image img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.img_1{
+    z-index: 1;
+    height: 37.258182557284124rem;
+    width: 49.67757369128762rem;
+}
+.img_2{
+    z-index: 2;
+    height: 37.258182557284124rem;
+    width: 49.67757369128762rem;
+}
+.img_3{
+    z-index: 3;
+    height: 37.1rem;
+    width: 49.5rem;
+}
+
 
 
 {}
