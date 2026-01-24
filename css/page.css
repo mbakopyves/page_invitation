@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 15rem;
+}
+.header p{
+    margin-top: 3rem;
+    font-size: 2.2rem;
+}
+.header img{
+    width: 18.4rem;
+    height: 10.4rem;
+}
+.body .Title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.6rem;
+    margin-top: 7rem;
+    top: 21.7rem;
+}
+.body .Title>p{
+    font-size: 2.4rem;
+    color: #C6754D;
+    font-weight: 400;
+}
+.body .Title-main{
+    font-size: 10.1rem;
+    color: var(--secondary-colo);
+    margin: -3rem 0;
+}
+.body img{
+    margin-bottom: 5rem;
+}
+.text{
+    height: 64.5rem;
+    background-color: #C6754D;
+    display: flex;
+
+}
+
+
+{}
