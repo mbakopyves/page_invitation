@@ -14,11 +14,12 @@ body{
     --primary-color: #C6754D;
     --secondary-colo: #2B1105;
     --font-familly: 'Montaga', serif;
-    --font-weight: var(--font-weight);
+    --font-weight: 400;
     --line-height:  100%;
     --font-size: 2.4rem;
     --font-size2: 1.8rem;
-    --line-height:  var(--line-height2);
-    --gap: var(--gap);
+    --line-height2: 160%;
+    --gap: 6.4rem;
+    --gap32px: 3.2rem;
 
 }
